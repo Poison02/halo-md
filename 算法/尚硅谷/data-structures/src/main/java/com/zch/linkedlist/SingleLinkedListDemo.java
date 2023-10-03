@@ -3,6 +3,7 @@ package com.zch.linkedlist;
 import java.util.Stack;
 
 /**
+ * 单链表
  * @author Zch
  * @date 2023/10/3
  **/
